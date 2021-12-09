@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfeb506a-aad1-4889-b124-903ba5008439" name="Changes" comment="second comment" />
+    <list default="true" id="bfeb506a-aad1-4889-b124-903ba5008439" name="Changes" comment="second comment">
+      <change afterPath="$PROJECT_DIR$/rest_api/rest_api/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api/notifications/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_api/notifications/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_api/rest_api/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_api/rest_api/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
